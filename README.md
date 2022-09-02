@@ -1,16 +1,24 @@
-# news_project
+# News App With Flutter
+ Bu uygulamda json api kullanarak bir haber uygulaması yaptım. Uygulamada ana sayfada haber ile ilgili görsel, başlık ve kısa açıklamalar gözükmekte. Haber tıklandığında haber hakkında biraz daha detay, tarih, yazar bilgileri ve sayfa kaynağına gitme butonları bulunmaktadır. Ayrıca sağ üst köşedeki butonlardan 
+haberi paylaşabilir veya favorilere ekleyebilirsiniz.
+ 
+ ## Kullandığım Paketler  
 
-A new Flutter project.
+|  Package | Link  |
+| ------------ | ------------ |
+|flutter_bloc   |  https://pub.dev/packages/provider |
+|  Http |  https://pub.dev/packages/http |
+|share_plus|  https://pub.dev/packages/share_plus |
+|webview_flutter|  https://pub.dev/packages/webview_flutter |
+|auto_size_text|  https://pub.dev/packages/auto_size_text|
+|cupertino_icons|  https://pub.dev/packages/cupertino_icons |
 
-## Getting Started
+#### Api Service
+| Api 
+| ------------
+|https://www.newsapi.org/  
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Uygulamadan Görseller
+<img src="https://user-images.githubusercontent.com/47521147/188218696-7cca164f-c2e5-4c23-931a-81d3198ccd0b.png" width="330" height="590">|
+<img src="https://user-images.githubusercontent.com/47521147/188218718-e13d7524-09cc-4455-834c-b12946a86516.png" width="330" height="590">|
+<img src="https://user-images.githubusercontent.com/47521147/188218731-4a9dd75d-d0d1-4279-bffc-a36689476713.png" width="330" height="590">|
