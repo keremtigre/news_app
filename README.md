@@ -19,6 +19,6 @@ haberi paylaşabilir veya favorilere ekleyebilirsiniz.
 |https://www.newsapi.org/  
 
 #### Uygulamadan Görseller
-<img src="https://user-images.githubusercontent.com/47521147/188218696-7cca164f-c2e5-4c23-931a-81d3198ccd0b.png" width="330" height="590">|
-<img src="https://user-images.githubusercontent.com/47521147/188218718-e13d7524-09cc-4455-834c-b12946a86516.png" width="330" height="590">|
-<img src="https://user-images.githubusercontent.com/47521147/188218731-4a9dd75d-d0d1-4279-bffc-a36689476713.png" width="330" height="590">|
+<img src="https://user-images.githubusercontent.com/47521147/188218696-7cca164f-c2e5-4c23-931a-81d3198ccd0b.png" width="400" height="610">|
+<img src="https://user-images.githubusercontent.com/47521147/188218718-e13d7524-09cc-4455-834c-b12946a86516.png" width="400" height="610">|
+<img src="https://user-images.githubusercontent.com/47521147/188218731-4a9dd75d-d0d1-4279-bffc-a36689476713.png" width="400" height="610">
